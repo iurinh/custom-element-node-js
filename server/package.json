@@ -1,0 +1,24 @@
+{
+  "name": "stark-front-container",
+  "version": "1.0.0",
+  "description": "Projeto responsável pela publicação de conteúdo Web do projeto Stark",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stark",
+    "container",
+    "node"
+  ],
+  "author": "Iuri Hidalgo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1"
+  }
+}

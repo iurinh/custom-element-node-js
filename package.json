@@ -1,0 +1,19 @@
+{
+  "name": "custom-element-node-js",
+  "version": "1.0.0",
+  "description": "Renderizar elementos customizáveis no template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurinh/custom-element-node-js.git"
+  },
+  "author": "IURI DO N H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iurinh/custom-element-node-js/issues"
+  },
+  "homepage": "https://github.com/iurinh/custom-element-node-js#readme"
+}
