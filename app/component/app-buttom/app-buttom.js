@@ -39,5 +39,5 @@ xmlhttp.onreadystatechange = function () {
     }
 }
 
-xmlhttp.open("GET", "/read-file", true);
+xmlhttp.open("GET", "/read-file/app-buttom.html", true);
 xmlhttp.send();
